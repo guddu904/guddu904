@@ -1,4 +1,4 @@
-# Crafting High-Performance Firmware & Embedded Systems
+# I specialise In:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,aws,azure,tensorflow,nodejs,verilog,stm32,linux" />
